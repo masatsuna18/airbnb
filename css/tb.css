@@ -1,0 +1,49 @@
+.tb-element {
+	display: inline;
+}
+
+.top-image {
+	height: 312px;
+}
+
+.center100 {
+	max-width: 648px;
+}
+
+.contents3 {
+	display:flex;
+	flex-direction: row-reverse;
+}
+
+section h1:before {
+	margin: 0px auto 25px auto;
+}
+
+section h1 {
+	text-align: center;
+}
+
+.image-square {
+	height: 441px;
+}
+
+.contents7 p {
+	text-align: center;
+}
+
+.hosting-links {
+	flex-direction: column;
+}
+
+.hosting-image img {
+	width: 203px;
+	height: 104px;
+}
+
+.hosting-caption {
+	width: 205px;
+}
+
+.footer-right, .footer-left {
+	text-align: center;
+}
